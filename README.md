@@ -1,10 +1,8 @@
 Здравствуйте, меня зовут Сергей Гришаев, я работаю ведущим администратором в самарском метрополитене.
 
-Ищу работу Go developer (уровня middle) удаленно.
+Ищу работу Go, Python, Rust developer (уровня middle) удаленно.
 
 Имею богатый опыт в системном администрировании (Windows, Linux), в том числе DevOps, в работе использую python, golang, postgresql
-
-В данный момент, помимо выполнения своих служебных обязанностей пишу [клиент Kerio Connect API](https://github.com/igiant/connect)
 
 E-Mail: sergey.grishayev@gmail.com
 
